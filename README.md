@@ -13,6 +13,8 @@ USED COLLABORATIVE FILTERING :
 </ul>
  
 <h1>deployment</h1>
-<p> When we look into collaborative filtering it might be efficient with existing users but we cannot add new user to this model and there is sparcity problem. It might be not suit for deploying to attract new users. For solve this issue I add an paper to fix sparcity porblem and new user problem</p>
+<p> When we look into collaborative filtering it might be efficient with existing users but we cannot add new user to this model and there is sparcity problem. It might be not suit for deploying to attract new users. For solve this issue I add a link for a paper to fix sparcity porblem and new user problem</p>
+
+<p>LINK OF PAPER: https://link.springer.com/content/pdf/10.1007/s10660-018-9287-x.pdf</p>
 
 
